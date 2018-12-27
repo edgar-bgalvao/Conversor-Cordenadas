@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geotecnologias", "Geotecnologias\Geotecnologias.csproj", "{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		test|Any CPU = test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.test|Any CPU.ActiveCfg = Release|Any CPU
+		{273DBCD5-56F5-4590-BF26-BF6ABEDB177E}.test|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40DBE84-0503-4270-9E93-F06F9C76675E}
+	EndGlobalSection
+EndGlobal
